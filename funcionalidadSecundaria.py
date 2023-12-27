@@ -1,1 +1,1 @@
-print('Se presenta un fichero para la rama secundaria')
+print('Se presenta impresión para la rama secundaria')
