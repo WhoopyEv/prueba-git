@@ -1,1 +1,1 @@
-print("2 Auth impresión")
+print("2 Auth")
